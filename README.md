@@ -1,2 +1,2 @@
 # SBMS
- 🚀 SBMS Basic level Project
+ 🚀 Spring Boot and Microservices
